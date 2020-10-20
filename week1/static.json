@@ -3,13 +3,12 @@
   "/":{
    "X-Author": "tvzch",
    "Access-Control-Allow-Origin": "*",
-   "Content-type": "text/plain; charset=UTF-8"
   },
-  "/login/*":{
+  "/login/":{
    "Content-type": "text/plain; charset=UTF-8",
    "Access-Control-Allow-Origin": "*"
   },
-  "/sample/*": {
+  "/sample/": {
    "Content-type": "plain/text"
   }
  }
