@@ -2,7 +2,8 @@
  "headers": {
   "/":{
    "X-Author": "tvzch",
-   "Access-Control-Allow-Origin": "*"
+   "Access-Control-Allow-Origin": "*",
+   "Content-type": "text/plain; charset=UTF-8"
   },
   "/login/*":{
    "Content-type": "text/plain; charset=UTF-8",
