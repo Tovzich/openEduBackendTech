@@ -1,5 +1,5 @@
 {
- "headers":[
+ "headers":{
   "/*":{
    "X-Author": "tvzch",
    "Access-Control-Allow-Origin": "*"
@@ -11,5 +11,5 @@
   "/sample/": {
    "Content-Type": "text/plain" 
   } 
- ]
+ }
 }
