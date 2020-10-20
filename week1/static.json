@@ -9,7 +9,7 @@
      "Access-Control-Allow-Origin": "*"
     },
     "/sample/": {
-     "Content-Type": "text/plain; charset=UTF-8"
+     "Content-Type": "plain/text; charset=UTF-8"
     }
   }
 }
