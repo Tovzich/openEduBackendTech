@@ -9,10 +9,7 @@
    "Access-Control-Allow-Origin": "*"
   },
   "/sample/": {
-   "Content-Type": "text/plain; function task(x) {
-                                x = x*x;
-                                return x;
-                                }
+   "Content-Type": "text/plain" 
   } 
  }
 }
