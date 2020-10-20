@@ -5,7 +5,7 @@
    "Access-Control-Allow-Origin": "*"
   },
   "/login/": {
-   "Content-type": "text/plain; charset=UTF-8",
+   "Content-type": "text/html; charset=UTF-8, text/plain; charset=UTF-8",
    "Access-Control-Allow-Origin": "*"
   }
  }
