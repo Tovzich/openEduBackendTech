@@ -4,12 +4,12 @@
    "X-Author": "tvzch",
    "Access-Control-Allow-Origin": "*"
   },
-  "/login/*":{
+  "public_html/login/*":{
    "Content-Type": "text/plain; charset=UTF-8",
    "Access-Control-Allow-Origin": "*"
   },
-  "/sample/*": {
-   "Content-Type": "text/plain"
+  "public_html/sample/*": {
+   "Content-Type": "plain/text"
   }
  }
 }
